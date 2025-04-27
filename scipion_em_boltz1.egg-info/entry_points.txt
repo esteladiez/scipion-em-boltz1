@@ -1,0 +1,2 @@
+[pyworkflow.plugin]
+boltz1 = boltz1
